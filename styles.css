@@ -15,7 +15,7 @@ label{
     width: 100%;
     margin: 5px 0;
 }
-input{
+input,textarea{
     width: 100%;
     min-height:1.5em ;
 }
@@ -23,10 +23,7 @@ input{
     width: unset;
     vertical-align: middle;
 }
-textarea{
-    min-height: 2em;
-    width: 100%;
-}
+
 #submit{
     display: block;
     width: 50%;
